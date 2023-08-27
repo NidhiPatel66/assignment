@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    text-align: start;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+header{
+    background-color: black;
+    padding: 10px;
+
+}
+.logo{
+    color: whitesmoke;
+    font-size: 41px;
+    font-weight: 100;
+}
+.logo span{
+    color: whitesmoke;
+}
+header li{
+    display: inline;
+    padding: 100px;
+    font-weight: 100;
+    font-size: 20px;
+
+}
+header li a{
+    color: white;
+    text-decoration: none;
+}
+section{
+    display: block;
+    align-items: center;
+    padding: 0 15%;
+
+}
+.Home-text span{
+    color: white;
+    font-weight: 600;
+    font-size: 100px;
+}
+.Home-text h1{
+    color: white;
+    font-weight: 600;
+    font-size: 100px;
+    margin-left: 200px;
+}
+.Home-text h2{
+    color:white;
+    font-weight: 600;
+    font-size: 100px;
+}
